@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap4",
+  "authors": [
+    "shazzadul <shazzad007@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "font-awesome": "^5.10.1"
+  }
+}
